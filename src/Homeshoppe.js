@@ -106,7 +106,7 @@ TOYS ,KIDS</li>
 </div>            
                 <div className="col-4" >
                 <div className="cc" >
-                    <img src="tv.png" width="500px" ></img>
+                    <img src="public\sound.png" width="500px" ></img>
                 </div>
                 </div>
 
